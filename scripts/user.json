@@ -1,0 +1,44 @@
+[
+  {
+    "name":"Reginald Pearson",
+    "avatar": "https://randomuser.me/api/portraits/men/78.jpg",
+    "location":"7468 Brown Terrace",
+    "email" : "reginald.pearson26@example.com"
+  },
+  {
+    "name":"Louise Morris",
+    "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+    "location":"8082 China Ave",
+    "email" : "louise.morris24@example.com"
+  },
+  {
+    "name":"Rose Elliott",
+    "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+    "location":"1889 Blue Island Ave",
+    "email" : "rose.elliott95@example.com"
+  },
+  {
+    "name":"Morris Bryant",
+    "avatar": "https://randomuser.me/api/portraits/men/2.jpg  ",
+    "location":"Chennai, India",
+    "email" : "morris.bryant82@example.com"
+  },
+  {
+    "name":"Claude Bryant",
+    "avatar": "https://randomuser.me/api/portraits/men/65.jpg",
+    "location":"6534 Smokey Ln",
+    "email" : "claude.bryant25@example.com"
+  },
+  {
+    "name":"Arun",
+    "avatar": "https://randomuser.me/api/portraits/men/77.jpg",
+    "location":"Chennai, India",
+    "email" : "arun1212@gmail.com"
+  },
+  {
+    "name":"David",
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+    "location":"Mumbai, India",
+    "email" : "David25@example.com"
+  }
+]
