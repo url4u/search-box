@@ -1,2 +1,2 @@
 # search-box
-Search box with ajax and json
+Full page search box with data feching from JSON through AJAX.
